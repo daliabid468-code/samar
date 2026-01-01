@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>سمر ❤️</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  background: radial-gradient(circle at top, #1b1b3a, #000);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  direction: rtl;
+}
+
+.card {
+  width: 90%;
+  max-width: 360px;
+  background: rgba(255,255,255,0.08);
+  backdrop-filter: blur(10px);
+  border-radius: 25px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 0 40px rgba(255,105,180,0.3);
+}
+
+.card img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #ff6fae;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #ff8fc7;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 15px;
+  line-height: 1.9;
+  color: #f1f1f1;
+}
+
+.heart {
+  margin-top: 15px;
+  font-size: 28px;
+  animation: pulse 1.6s infinite;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.25); }
+  100% { transform: scale(1); }
+}
+</style>
+</head>
+
+<body>
+
+<div class="card">
+  <img src="samar.jpg" alt="سمر">
+
+  <h2>سمر 💖</h2>
+
+  <p>
+    سمر،  
+    أنتِ الشيء الجميل الذي حدث لي دون موعد،  
+    وأجمل شعور سكن قلبي دون استئذان.  
+    أحبك لأنكِ أنتِ،  
+    بابتسامتك، بصوتك، بروحك التي تشبه السلام.  
+
+    <br><br>
+
+    أحبك لأن وجودك يطمئنني،  
+    ولأنك تجعلين العالم ألطف،  
+    ولأن قلبي كلما نطق باسمك شعر أنه في بيته.  
+
+    <br><br>
+
+    سمر…  
+    أحبك أكثر مما أُظهر،  
+    وأكثر مما أستطيع وصفه،  
+    وأعدك أن أبقى أحبك  
+    اليوم، وغدًا، ودائمًا ❤️
+  </p>
+
+  <div class="heart">💖💫💖</div>
+</div>
+
+</body>
+</html>
